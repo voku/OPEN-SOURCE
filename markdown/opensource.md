@@ -1,14 +1,12 @@
 # Freie Software ⊆ Open Source Software
 
 <div class="width_img_wrapper_60">
-  ![Werkzeuge](images/tumblr_mjx41iyPVX1r6ar5jo1_500.jpg)
+  ![OSS](images/tumblr_mjx41iyPVX1r6ar5jo1_500.jpg)
 </div>
 
 ---
 
-## To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”.
-
-TODO
+### To understand the concept, you should think of “free” as in “free speech”,<br /> not as in “free beer”.
 
 ---
 <!-- .slide: data-background="images/backgrounds/shutterstock_200991887_B.jpg" data-state="inverted" -->
@@ -51,6 +49,15 @@ TODO
 - eine Open Source und eine "Enterprise" Version anbieten
 
 ---
+
+# Geschäftsmodell ?
+
+<div class="width_img_wrapper_30">
+  ![Open Source](images/Strip-Vision-Open-source-650-finalenglish.jpg)
+</div>
+
+
+---
 <!-- .slide: data-background="images/backgrounds/terminal.jpg" data-state="inverted faded grayscaled" -->
 
 # Wo veröffentliche ich Open Source Software?
@@ -64,11 +71,11 @@ TODO
 <!-- .slide: data-background="images/backgrounds/terminal.jpg" data-state="inverted faded grayscaled" -->
 
 <h3 class="fragment">
-  - Open Source <span class="highlight">Lizenz</span> für Software angeben (z.B.: LICENSE.txt)
+  - Open Source <span class="highlight">Lizenz</span> für Software angeben - z.B.: LICENSE.txt
 </h3>
 
 <h3 class="fragment">
-  - <span class="highlight">Quellcode Organisatzion</span> (z.B. "src/", "tests/", "lib/")
+  - <span class="highlight">Quellcode Organisatzion</span> - z.B. "src/", "tests/", "lib/"
 </h3>
 
 <h3 class="fragment">
@@ -130,8 +137,14 @@ TODO
     npm install mocha --save-dev
     npm install chai --save-dev
 
-### Veröffentliche dein Paket
+### veröffentliche dein Paket
     npm publish
+
+---
+
+<div class="width_img_wrapper_80">
+  ![npm](images/npm_publish.jpg)
+</div>
 
 ---
 ## Beispiel: <span class="highlight">bower</span>
@@ -139,7 +152,7 @@ TODO
 ### Installation von node.js, z.B.:
     sudo apt-get install nodejs
 
-### Installation von <span class="highlight">bower</span>
+### Installation von bower
     npm install -g bower
 
 ---
@@ -147,8 +160,14 @@ TODO
 ### interaktiv eine "bower.json"-Datei erstellen
     bower init
 
-### Veröffentliche dein Paket
+### veröffentliche dein Paket
     bower register <my-package-name> <git-endpoint>
+
+---
+
+<div class="width_img_wrapper_80">
+  ![bower](images/bower_publish.jpg)
+</div>
 
 ---
 ## Beispiel: <span class="highlight">composer</span>
@@ -159,6 +178,16 @@ TODO
 ### interaktiv eine "composer.json"-Datei erstellen
     composer init
 
-### Veröffentliche dein Paket
+### veröffentliche dein Paket
     https://packagist.org/packages/submit
 
+
+---
+
+## Kritik an npm, bower, composer
+
+- git-tags können gelöscht werden
+
+- keine Signierung von Paketen (GnuPG)
+
+- Namen von Paketen (Namespace?)

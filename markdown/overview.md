@@ -1,4 +1,6 @@
 
+# Inhalt
+
 <p class="fragment">
   <strong>1. Was ist Open Source Software?</strong>
 </p>
@@ -12,6 +14,26 @@
   <strong>4. Wie veröffentliche ich Open Source Software?</strong>
 </p>
 <p class="fragment">
+  <strong>5. Beispiel-Repository</strong>
+</p>
+
+---
+
+# Inhalt
+
+<p class="">
+  <strong class="highlight">1. Was ist Open Source Software?</strong>
+</p>
+<p class="">
+  <strong>2. Wo veröffentliche ich Open Source Software?</strong>
+</p>
+<p class="">
+  <strong>3. Welche Open Source Software Standards gibt es?</strong>
+</p>
+<p class="">
+  <strong>4. Wie veröffentliche ich Open Source Software?</strong>
+</p>
+<p class="">
   <strong>5. Beispiel-Repository</strong>
 </p>
 
@@ -34,6 +56,27 @@
 <!-- .slide: data-background="images/reactions/tumblr_mej27iJ3rC1qdpvjdo1_500.gif" data-state="inverted faded" -->
 
 # Freiheit 3: Das Programm zu verbessern und diese Verbesserungen zu verbreiten, um damit einen Nutzen für die Gemeinschaft zu erzeugen.
+
+---
+
+# Inhalt
+
+<p class="">
+  <strong class="highlight">1. Was ist Open Source Software?</strong>
+  -> Geschichte
+</p>
+<p class="">
+  <strong>2. Wo veröffentliche ich Open Source Software?</strong>
+</p>
+<p class="">
+  <strong>3. Welche Open Source Software Standards gibt es?</strong>
+</p>
+<p class="">
+  <strong>4. Wie veröffentliche ich Open Source Software?</strong>
+</p>
+<p class="">
+  <strong>5. Beispiel-Repository</strong>
+</p>
 
 ---
 
@@ -74,9 +117,9 @@
 
 ---
 
-<p lang="zxx"><span style=""><b>1993</b></span><span style="">: Microsoft veröffentlicht ein proprietäres Betriebssystem – <a href="http://de.wikipedia.org/wiki/Microsoft_Windows_3.1">Microsoft_Windows_3.1</a></span></p>
+<p lang="zxx"><span style=""><b>1993</b></span><span style="">: Microsoft veröffentlicht ein proprietäres Betriebssystem – <a href="http://de.wikipedia.org/wiki/Microsoft_Windows_3.1">Microsoft Windows 3.1</a></span></p>
 <p lang="zxx"><span style=""><b>1995</b></span><span style="">: Rasmus Lerdorf entwickelt eine Skriptsprache für Webanwendungen </span><span style="">–</span><span style=""> <a href="https://groups.google.com/forum/#!msg/comp.infosystems.www.authoring.cgi/PyJ25gZ6z7A/M9FkTUVDfcwJ">PHP</a></span></p>
-<p lang="zxx"><span style=""><b>1995</b></span><span style="">: Sun Microsystems entwickelt eine objektorientierte Programmiersprache </span><span style="">–</span><span>Java</span></p>
+<p lang="zxx"><span style=""><b>1995</b></span><span style="">: Sun Microsystems entwickelt eine objektorientierte Programmiersprache </span><span style=""> – </span><span>Java</span></p>
 <p lang="zxx"><span style=""><b>1995</b></span><span style="">: Netscape entwickelt </span><span style="">eine Skriptsprache für </span><span style="">Client-</span><span style="">Webanwendungen – </span><a href="http://de.wikipedia.org/wiki/JavaScript"><span style="">JavaScript</span></a></p>
 
 ---
