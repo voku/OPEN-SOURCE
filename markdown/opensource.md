@@ -29,6 +29,14 @@
 <strong>BSD:</strong> darf auch in proprietäre Software verwendet werden
 
 ---
+<!-- .slide: data-background="images/backgrounds/shutterstock_201625775_c.jpg" data-state="" -->
+
+<div class="width_img_wrapper_60">
+  ![Open Source](images/quick-guide-gplv3-compatibility.de.png)
+</div>
+
+
+---
 
 # Geschäftsmodelle (Beispiele)
 
@@ -108,6 +116,9 @@
   - <span class="highlight">Issue-Tracking-System</span> zur Verwaltung von Bugs verwenden
 </h3>
 
+<h3 class="fragment">
+  - <span class="highlight">Contributor-Model</span> bei größeren Projekten
+
 ---
 <!-- .slide: data-background="images/reactions/hM9lqGh.gif" data-state="inverted faded grayscaled" -->
 
@@ -147,6 +158,12 @@
 </div>
 
 ---
+
+<div class="width_img_wrapper_70">
+  ![bower](images/bower.jpg)
+</div>
+
+---
 ## Beispiel: <span class="highlight">bower</span>
 
 ### Installation von node.js, z.B.:
@@ -181,7 +198,6 @@
 ### veröffentliche dein Paket
     https://packagist.org/packages/submit
 
-
 ---
 
 ## Kritik an npm, bower, composer
@@ -191,3 +207,14 @@
 - keine Signierung von Paketen (GnuPG)
 
 - Namen von Paketen (Namespace?)
+
+- Autoloader (Standard)?
+
+---
+
+# Beispiel-Repository
+
+- [node.js](https://github.com/voku/node-lettering)
+- [bower](https://github.com/voku/bower-lettering)
+
+---

@@ -18,26 +18,6 @@
 </p>
 
 ---
-
-# Inhalt
-
-<p class="">
-  <strong class="highlight">1. Was ist Open Source Software?</strong>
-</p>
-<p class="">
-  <strong>2. Wo veröffentliche ich Open Source Software?</strong>
-</p>
-<p class="">
-  <strong>3. Welche Open Source Software Standards gibt es?</strong>
-</p>
-<p class="">
-  <strong>4. Wie veröffentliche ich Open Source Software?</strong>
-</p>
-<p class="">
-  <strong>5. Beispiel-Repository</strong>
-</p>
-
----
 <!-- .slide: data-background="images/reactions/tumblr_inline_na61n7e6yw1raprkq.gif" data-state="inverted faded" -->
 
 # Freiheit 0: Das Programm zu jedem Zweck auszuführen.
@@ -48,7 +28,7 @@
 # Freiheit 1: Das Programm zu untersuchen und zu verändern.
 
 ---
-<!-- .slide: data-background="images/reactions/tumblr_inline_na61n7e6yw1raprkq.gif" data-state="inverted faded" -->
+<!-- .slide: data-background="images/reactions/tumblr_inline_nmeyavHJJw1raprkq_500.gif" data-state="" -->
 
 # Freiheit 2: Das Programm zu verbreiten.
 
@@ -56,27 +36,6 @@
 <!-- .slide: data-background="images/reactions/tumblr_mej27iJ3rC1qdpvjdo1_500.gif" data-state="inverted faded" -->
 
 # Freiheit 3: Das Programm zu verbessern und diese Verbesserungen zu verbreiten, um damit einen Nutzen für die Gemeinschaft zu erzeugen.
-
----
-
-# Inhalt
-
-<p class="">
-  <strong class="highlight">1. Was ist Open Source Software?</strong>
-  -> Geschichte
-</p>
-<p class="">
-  <strong>2. Wo veröffentliche ich Open Source Software?</strong>
-</p>
-<p class="">
-  <strong>3. Welche Open Source Software Standards gibt es?</strong>
-</p>
-<p class="">
-  <strong>4. Wie veröffentliche ich Open Source Software?</strong>
-</p>
-<p class="">
-  <strong>5. Beispiel-Repository</strong>
-</p>
 
 ---
 
@@ -146,19 +105,19 @@
 ---
 
 
-<p lang="zxx"><span style=""><b>2008</b></span><span style="">: Google veröffentlicht ein </span><span style="">freies Betriebssystem – </span><a href="http://de.wikipedia.org/wiki/Android_(Betriebssystem)#Kritik"><span style="">Android</span></a></p>
-<p lang="zxx"><span style=""><b>2009</b></span><span style="">: Joyent Inc. e</span><span style="">ntwickelt freie </span><span style="">serverseitige Plattform für Netzwerkanwendungen – <a href="http://de.wikipedia.org/wiki/Node.js">NodeJS</a></span></p>
-<p lang="zxx"><span style=""><b>2012</b></span><span style="">: Microsoft </span><span style="">veröffentlicht ein</span> <span style="">proprietäres </span><span style="">Betriebssystem </span><span style="">–</span><span style=""> <a href="http://de.wikipedia.org/wiki/Microsoft_Windows_8">Microsoft Windows 8</a></span></p>
-<p lang="zxx"><span style=""><b>2013</b></span><span style="">: Mozilla veröffentlicht ein </span><span style="">freies Betriebssystem – </span><a href="http://de.wikipedia.org/wiki/Firefox_OS"><span style="">Firefox OS</span></a></p>
+<p lang="zxx"><span style=""><b>2008</b></span><span style="">: Google veröffentlicht ein freies Betriebssystem – </span><a href="http://www.statista.com/statistics/278305/daily-activations-of-android-devices/"><span style="">Android</span></a></p>
+<p lang="zxx"><span style=""><b>2009</b></span><span style="">: Joyent Inc. entwickelt freie serverseitige Plattform für Netzwerkanwendungen – <a href="http://de.wikipedia.org/wiki/Node.js">NodeJS</a></span></p>
+<p lang="zxx"><span style=""><b>2012</b></span><span style="">: Microsoft veröffentlicht ein proprietäres </span><span style="">Betriebssystem </span><span style="">–</span><span style=""> <a href="http://de.wikipedia.org/wiki/Microsoft_Windows_8">Microsoft Windows 8</a></span></p>
+<p lang="zxx"><span style=""><b>2013</b></span><span style="">: Mozilla veröffentlicht ein freies Betriebssystem – </span><a href="http://de.wikipedia.org/wiki/Firefox_OS"><span style="">Firefox OS</span></a></p>
 
 
 ---
 
-<p lang="zxx"><span style=""><b>2014</b></span><span style="">: </span><span style="">Open-Source-Community veröffentlicht ein freies unixoides Betriebssystem – <a href="http://de.wikipedia.org/wiki/FreeBSD">FreeBSD 1</a></span><a href="http://de.wikipedia.org/wiki/FreeBSD"><span style="">0</span></a><a href="http://de.wikipedia.org/wiki/FreeBSD"><span style="">.0</span></a></p>
-<p lang="zxx"><span style=""><b>2015</b></span><span style="">: </span><span style="">Linus Torvalds </span><span style="">veröffentlicht</span> <span style="">eine neue Version seines f</span><span style="">reien Kernel</span><span style="">s – <a href="http://de.wikipedia.org/wiki/Linux_(Kernel)">Linux 4.0</a></span></p>
+<p lang="zxx"><span style=""><b>2014</b>: Open-Source-Community veröffentlicht ein freies unixoides Betriebssystem – <a href="http://de.wikipedia.org/wiki/FreeBSD">FreeBSD 1</a></span><a href="http://de.wikipedia.org/wiki/FreeBSD"><span style="">0</span></a><a href="http://de.wikipedia.org/wiki/FreeBSD"><span style="">.0</span></a></p>
+<p lang="zxx"><span style=""><b>2015</b>: Linus Torvalds veröffentlicht eine neue Version seines freien Kernels – <a href="http://de.wikipedia.org/wiki/Linux_(Kernel)">Linux 4.0</a></span></p>
 
 ---
-<!-- .slide: data-background="images/backgrounds/shutterstock_201625775_b.jpg" data-state="inverted faded" -->
+<!-- .slide: data-background="images/backgrounds/shutterstock_201625775_c.jpg" data-state="" -->
 
 <div class="width_img_wrapper_80">
   ![Open Source](images/Unix_history-simple.svg)
